@@ -1,6 +1,10 @@
 # FlipKart-clone-frontend
 Made with HTML and CSS 
 
+#Deploied Link :  https://iam-srv.github.io/FlipKart-clone-frontend/
+
+![image](https://user-images.githubusercontent.com/117807050/236271534-240fedca-bac4-44aa-9690-e89f55deadb9.png)
+
 #Resoueces used
 FAVICON
 https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina.ico
